@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DBUtil {
-	//주석 추가
+	//git 주석 추가
 
 	// db 연결
 	public static Connection getConnection() {
